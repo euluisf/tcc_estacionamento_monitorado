@@ -1,0 +1,199 @@
+Teste com Scale Factor : 1.01
+
+track0093[01].png --- 1230(ms) --- Numero Detecções: 2
+track0093[02].png --- 140(ms) --- Numero Detecções: 1
+track0093[03].png --- 109(ms) --- Numero Detecções: 1
+track0093[04].png --- 156(ms) --- Numero Detecções: 1
+track0093[05].png --- 125(ms) --- Numero Detecções: 1
+track0093[06].png --- 157(ms) --- Numero Detecções: 1
+track0093[07].png --- 109(ms) --- Numero Detecções: 2
+track0093[08].png --- 109(ms) --- Numero Detecções: 1
+track0093[09].png --- 171(ms) --- Numero Detecções: 1
+track0093[10].png --- 125(ms) --- Numero Detecções: 1
+track0093[11].png --- 125(ms) --- Numero Detecções: 1
+track0093[12].png --- 125(ms) --- Numero Detecções: 1
+track0093[13].png --- 141(ms) --- Numero Detecções: 2
+track0093[14].png --- 187(ms) --- Numero Detecções: 2
+track0093[15].png --- 141(ms) --- Numero Detecções: 1
+track0093[16].png --- 109(ms) --- Numero Detecções: 1
+track0093[17].png --- 109(ms) --- Numero Detecções: 0
+track0093[18].png --- 109(ms) --- Numero Detecções: 1
+track0093[19].png --- 109(ms) --- Numero Detecções: 0
+track0093[20].png --- 109(ms) --- Numero Detecções: 0
+track0093[21].png --- 109(ms) --- Numero Detecções: 1
+track0093[22].png --- 94(ms) --- Numero Detecções: 2
+track0093[23].png --- 125(ms) --- Numero Detecções: 1
+track0093[24].png --- 110(ms) --- Numero Detecções: 2
+track0093[25].png --- 125(ms) --- Numero Detecções: 1
+track0093[26].png --- 78(ms) --- Numero Detecções: 1
+track0093[27].png --- 109(ms) --- Numero Detecções: 1
+track0093[28].png --- 109(ms) --- Numero Detecções: 1
+track0093[29].png --- 122(ms) --- Numero Detecções: 1
+track0093[30].png --- 110(ms) --- Numero Detecções: 1
+
+Media(ms) : 159.53333333333333
+Detecções Corretas : 21
+Detecções Incorretas : 6
+Imagens sem Detecções : 3
+
+--------------------------------------------------------
+
+Teste com Scale Factor : 1.04
+
+track0093[01].png --- 563(ms) --- Numero Detecções: 1
+track0093[02].png --- 47(ms) --- Numero Detecções: 1
+track0093[03].png --- 31(ms) --- Numero Detecções: 1
+track0093[04].png --- 31(ms) --- Numero Detecções: 1
+track0093[05].png --- 31(ms) --- Numero Detecções: 1
+track0093[06].png --- 31(ms) --- Numero Detecções: 1
+track0093[07].png --- 31(ms) --- Numero Detecções: 1
+track0093[08].png --- 47(ms) --- Numero Detecções: 1
+track0093[09].png --- 47(ms) --- Numero Detecções: 1
+track0093[10].png --- 32(ms) --- Numero Detecções: 1
+track0093[11].png --- 31(ms) --- Numero Detecções: 1
+track0093[12].png --- 31(ms) --- Numero Detecções: 1
+track0093[13].png --- 31(ms) --- Numero Detecções: 1
+track0093[14].png --- 31(ms) --- Numero Detecções: 1
+track0093[15].png --- 47(ms) --- Numero Detecções: 1
+track0093[16].png --- 31(ms) --- Numero Detecções: 1
+track0093[17].png --- 31(ms) --- Numero Detecções: 0
+track0093[18].png --- 16(ms) --- Numero Detecções: 1
+track0093[19].png --- 16(ms) --- Numero Detecções: 0
+track0093[20].png --- 16(ms) --- Numero Detecções: 0
+track0093[21].png --- 31(ms) --- Numero Detecções: 1
+track0093[22].png --- 32(ms) --- Numero Detecções: 1
+track0093[23].png --- 15(ms) --- Numero Detecções: 1
+track0093[24].png --- 31(ms) --- Numero Detecções: 1
+track0093[25].png --- 31(ms) --- Numero Detecções: 1
+track0093[26].png --- 31(ms) --- Numero Detecções: 1
+track0093[27].png --- 31(ms) --- Numero Detecções: 1
+track0093[28].png --- 31(ms) --- Numero Detecções: 1
+track0093[29].png --- 31(ms) --- Numero Detecções: 1
+track0093[30].png --- 31(ms) --- Numero Detecções: 1
+
+Media(ms) : 48.9
+Detecções Corretas : 27
+Detecções Incorretas : 0
+Imagens sem Detecções : 3
+
+--------------------------------------------------------
+
+Teste com Scale Factor : 1.07
+
+track0093[01].png --- 1095(ms) --- Numero Detecções: 1
+track0093[02].png --- 16(ms) --- Numero Detecções: 1
+track0093[03].png --- 15(ms) --- Numero Detecções: 1
+track0093[04].png --- 31(ms) --- Numero Detecções: 1
+track0093[05].png --- 16(ms) --- Numero Detecções: 1
+track0093[06].png --- 16(ms) --- Numero Detecções: 1
+track0093[07].png --- 15(ms) --- Numero Detecções: 1
+track0093[08].png --- 16(ms) --- Numero Detecções: 1
+track0093[09].png --- 15(ms) --- Numero Detecções: 1
+track0093[10].png --- 15(ms) --- Numero Detecções: 1
+track0093[11].png --- 16(ms) --- Numero Detecções: 1
+track0093[12].png --- 16(ms) --- Numero Detecções: 1
+track0093[13].png --- 15(ms) --- Numero Detecções: 1
+track0093[14].png --- 31(ms) --- Numero Detecções: 1
+track0093[15].png --- 16(ms) --- Numero Detecções: 1
+track0093[16].png --- 15(ms) --- Numero Detecções: 1
+track0093[17].png --- 15(ms) --- Numero Detecções: 0
+track0093[18].png --- 16(ms) --- Numero Detecções: 1
+track0093[19].png --- 16(ms) --- Numero Detecções: 0
+track0093[20].png --- 16(ms) --- Numero Detecções: 0
+track0093[21].png --- 15(ms) --- Numero Detecções: 1
+track0093[22].png --- 16(ms) --- Numero Detecções: 1
+track0093[23].png --- 15(ms) --- Numero Detecções: 1
+track0093[24].png --- 15(ms) --- Numero Detecções: 1
+track0093[25].png --- 31(ms) --- Numero Detecções: 1
+track0093[26].png --- 16(ms) --- Numero Detecções: 1
+track0093[27].png --- 16(ms) --- Numero Detecções: 1
+track0093[28].png --- 31(ms) --- Numero Detecções: 0
+track0093[29].png --- 16(ms) --- Numero Detecções: 1
+track0093[30].png --- 15(ms) --- Numero Detecções: 1
+
+Media(ms) : 53.6
+Detecções Corretas : 26
+Detecções Incorretas : 0
+Imagens sem Detecções : 4
+
+--------------------------------------------------------
+
+Teste com Scale Factor : 1.1
+
+track0093[01].png --- 1132(ms) --- Numero Detecções: 0
+track0093[02].png --- 15(ms) --- Numero Detecções: 1
+track0093[03].png --- 15(ms) --- Numero Detecções: 1
+track0093[04].png --- 16(ms) --- Numero Detecções: 1
+track0093[05].png --- 15(ms) --- Numero Detecções: 1
+track0093[06].png --- 16(ms) --- Numero Detecções: 1
+track0093[07].png --- 0(ms) --- Numero Detecções: 1
+track0093[08].png --- 15(ms) --- Numero Detecções: 1
+track0093[09].png --- 15(ms) --- Numero Detecções: 1
+track0093[10].png --- 0(ms) --- Numero Detecções: 1
+track0093[11].png --- 16(ms) --- Numero Detecções: 1
+track0093[12].png --- 0(ms) --- Numero Detecções: 1
+track0093[13].png --- 15(ms) --- Numero Detecções: 1
+track0093[14].png --- 31(ms) --- Numero Detecções: 1
+track0093[15].png --- 16(ms) --- Numero Detecções: 1
+track0093[16].png --- 0(ms) --- Numero Detecções: 1
+track0093[17].png --- 0(ms) --- Numero Detecções: 0
+track0093[18].png --- 15(ms) --- Numero Detecções: 1
+track0093[19].png --- 15(ms) --- Numero Detecções: 0
+track0093[20].png --- 15(ms) --- Numero Detecções: 0
+track0093[21].png --- 15(ms) --- Numero Detecções: 1
+track0093[22].png --- 15(ms) --- Numero Detecções: 1
+track0093[23].png --- 15(ms) --- Numero Detecções: 1
+track0093[24].png --- 16(ms) --- Numero Detecções: 1
+track0093[25].png --- 16(ms) --- Numero Detecções: 1
+track0093[26].png --- 15(ms) --- Numero Detecções: 1
+track0093[27].png --- 15(ms) --- Numero Detecções: 1
+track0093[28].png --- 16(ms) --- Numero Detecções: 1
+track0093[29].png --- 16(ms) --- Numero Detecções: 0
+track0093[30].png --- 0(ms) --- Numero Detecções: 0
+
+Media(ms) : 50.03333333333333
+Detecções Corretas : 24
+Detecções Incorretas : 0
+Imagens sem Detecções : 6
+
+--------------------------------------------------------
+
+Teste com Scale Factor : 1.2
+
+track0093[01].png --- 500(ms) --- Numero Detecções: 1
+track0093[02].png --- 0(ms) --- Numero Detecções: 1
+track0093[03].png --- 0(ms) --- Numero Detecções: 1
+track0093[04].png --- 16(ms) --- Numero Detecções: 1
+track0093[05].png --- 16(ms) --- Numero Detecções: 1
+track0093[06].png --- 16(ms) --- Numero Detecções: 1
+track0093[07].png --- 16(ms) --- Numero Detecções: 1
+track0093[08].png --- 16(ms) --- Numero Detecções: 1
+track0093[09].png --- 16(ms) --- Numero Detecções: 1
+track0093[10].png --- 0(ms) --- Numero Detecções: 1
+track0093[11].png --- 16(ms) --- Numero Detecções: 1
+track0093[12].png --- 0(ms) --- Numero Detecções: 1
+track0093[13].png --- 15(ms) --- Numero Detecções: 1
+track0093[14].png --- 16(ms) --- Numero Detecções: 0
+track0093[15].png --- 16(ms) --- Numero Detecções: 0
+track0093[16].png --- 0(ms) --- Numero Detecções: 1
+track0093[17].png --- 0(ms) --- Numero Detecções: 0
+track0093[18].png --- 15(ms) --- Numero Detecções: 1
+track0093[19].png --- 15(ms) --- Numero Detecções: 0
+track0093[20].png --- 15(ms) --- Numero Detecções: 0
+track0093[21].png --- 16(ms) --- Numero Detecções: 1
+track0093[22].png --- 0(ms) --- Numero Detecções: 1
+track0093[23].png --- 16(ms) --- Numero Detecções: 1
+track0093[24].png --- 16(ms) --- Numero Detecções: 1
+track0093[25].png --- 15(ms) --- Numero Detecções: 0
+track0093[26].png --- 16(ms) --- Numero Detecções: 0
+track0093[27].png --- 16(ms) --- Numero Detecções: 0
+track0093[28].png --- 16(ms) --- Numero Detecções: 0
+track0093[29].png --- 16(ms) --- Numero Detecções: 0
+track0093[30].png --- 16(ms) --- Numero Detecções: 0
+
+Media(ms) : 28.233333333333334
+Detecções Corretas : 19
+Detecções Incorretas : 0
+Imagens sem Detecções : 11
+
+--------------------------------------------------
